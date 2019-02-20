@@ -1,17 +1,13 @@
-A skeleton for MEVN full stack. (Mongodb, Express, Vuejs, Nodejs)
+A skeleton for MEVN full stack CRUD (Create, Read, Update, Delete). (Mongodb, Express, Vuejs, Nodejs)
 
 - VueJS: 
-  To get started:
-
-  cd client
-  npm install (or if using yarn: yarn)
-  npm run lint --fix (or for yarn: yarn run lint --fix)
+  cd client/
   npm run serve
-  
-  Documentation can be found at https://vuejs-templates.github.io/webpack
 
 - NodeJS
-
+  cd server/
+  npm start
+  
 - MongoDB
 
 - Express
